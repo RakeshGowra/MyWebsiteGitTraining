@@ -11,6 +11,7 @@
   <body>
     <main>
         <h1>Welcome to EthyxAI Website</h1>
+        <h1>We are focused on developing ethical AI products</h1>
     </main>
 	<script src="index.js"></script>
   </body>
